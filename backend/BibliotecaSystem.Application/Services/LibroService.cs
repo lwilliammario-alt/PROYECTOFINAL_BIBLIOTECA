@@ -21,6 +21,7 @@ public class LibroService : ILibroService
             Titulo = dto.Titulo,
             Autor = dto.Autor,
             ISBN = dto.ISBN,
+            AnioPublicacion = dto.AnioPublicacion,
             FechaRegistro = DateTime.UtcNow,
             Estado = "Disponible"
         };
