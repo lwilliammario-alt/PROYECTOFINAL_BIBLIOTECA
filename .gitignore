@@ -18,4 +18,4 @@ dist-ssr/
 .DS_Store
 Thumbs.db
 
-# PDF guides (optional, but let's keep it just in case, or not ignore it if user wants to keep the PDF on git. Let's not ignore PDF)
+
